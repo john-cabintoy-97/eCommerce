@@ -4,13 +4,14 @@
   "type": "project",
   "require": {
     "php": "^7.4 || ^8.1",
-    "vlucas/phpdotenv": "^5.6"
+    "vlucas/phpdotenv": "^5.6",
+    "webonyx/graphql-php": "^15.20"
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "Your Name",
-      "email": "youremail@example.com"
+      "name": "John Rey Cabintoy",
+      "email": "johnreycabintoylapis@gmail.com"
     }
   ],
   "minimum-stability": "stable",
